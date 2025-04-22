@@ -2,7 +2,7 @@
 
 This guide outlines the responsibilities for both parties to successfully integrate Microsoft Active Directory with AWS Cognito for single sign-on functionality.
 
-![AWS Cognito Federation Flow](https://i.imgur.com/zHIHdxI.png)
+![AWS Cognito Federation Flow](https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2021/11/10/Amazon-Cognito-federated-authentication-1r.png)
 
 > For more detailed AWS documentation, see: [How to set up Amazon Cognito for federated authentication using Azure AD](https://aws.amazon.com/blogs/security/how-to-set-up-amazon-cognito-for-federated-authentication-using-azure-ad/)
 
