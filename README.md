@@ -6,7 +6,10 @@ This guide outlines the responsibilities for both parties to successfully integr
 
 > For more detailed AWS documentation, see: [How to set up Amazon Cognito for federated authentication using Azure AD](https://aws.amazon.com/blogs/security/how-to-set-up-amazon-cognito-for-federated-authentication-using-azure-ad/)
 
-![Watch The Setup](https://www.youtube.com/watch?v=3ImxqC60SWw)
+## Video Tutorial
+
+[![Watch the setup tutorial](https://img.youtube.com/vi/3ImxqC60SWw/0.jpg)](https://www.youtube.com/watch?v=3ImxqC60SWw)
+*Click the image above to watch the setup tutorial video*
 
 ## What Application Owner Needs to Do
 
